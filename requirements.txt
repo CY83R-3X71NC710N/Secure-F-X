@@ -1,0 +1,7 @@
+
+
+# Requirements
+cv2==4.4.0
+dlib==19.20.0
+Pillow==7.2.0
+numpy==1.19.1
